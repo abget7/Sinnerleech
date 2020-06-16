@@ -1,6 +1,6 @@
  ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/rhfxmbmy/public_html/tordl
+    - export DEPLOYPATH=/home/rhfxmbmy/public_html/dltor
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
